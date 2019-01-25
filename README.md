@@ -19,7 +19,7 @@ This file contain the class functions of the C++ class, LayeredMedia for setting
 
 b. Calculate_admittance.cc: 
 
-This file contains the computation of each integral in equation (6) inspired by authors previous work [1] [2]. Various parameters set in the    LayeredMedia class and integrands are accessed through a class pointer. This file calls the numerical integration routines based on adaptive Gauss-Lobotto quadrature defined in Integration.cc. Therefore, this file includes the header file Integration.h, where the functions for Adaptive Gauss-Lobotto Quadrature numerical integration  are declared. 
+This file contains the computation of each integral in equation (6) inspired by authors previous work [1] [2]. Various parameters set in the    LayeredMedia class and integrands are accessed through a class pointer. This file calls the numerical integration routines based on adaptive Gauss-Lobotto quadrature defined in Integration.cc. Therefore, this file includes the header file Integration.h, where the functions for adaptive Gauss-Lobotto quadrature numerical integration  are declared. 
 
 c. NDECOAX.cc: 
 
