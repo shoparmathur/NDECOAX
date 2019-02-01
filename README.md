@@ -94,7 +94,7 @@ Copyright and Licencing information:
 % 
 %  Authors: 
 % 
-%   Parul Mathur, Mauricio D. Perez b , Robin Augustine b , D. G. Kurup 
+%   Parul Mathur and D. G. Kurup 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
 
